@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d76c214-27cd-4cea-b97c-3102f5e3f737" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aG7RZWv4eKViRZ2J8Py43dPTtp" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pytorch-ssd-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\vision\ssd\config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master" />
+      <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\coco" />
+      <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\vision\datasets" />
+      <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\vision\ssd\config" />
+      <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\vision\ssd" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d76c214-27cd-4cea-b97c-3102f5e3f737" name="Default Changelist" comment="" />
+      <created>1586350068355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586350068355</updated>
+      <workItem from="1586350074026" duration="1889000" />
+      <workItem from="1586414795161" duration="2368000" />
+      <workItem from="1586611224462" duration="598000" />
+      <workItem from="1586660321525" duration="1195000" />
+      <workItem from="1586749564942" duration="4245000" />
+      <workItem from="1586830573563" duration="598000" />
+      <workItem from="1586833768674" duration="5247000" />
+      <workItem from="1587112209457" duration="2632000" />
+      <workItem from="1587175476793" duration="2428000" />
+      <workItem from="1587436157708" duration="37218000" />
+      <workItem from="1587623610990" duration="2610000" />
+      <workItem from="1587697818138" duration="7725000" />
+      <workItem from="1587818078572" duration="944000" />
+      <workItem from="1587885999187" duration="4355000" />
+      <workItem from="1587953899726" duration="16445000" />
+      <workItem from="1588036145679" duration="12975000" />
+      <workItem from="1588144486792" duration="620000" />
+      <workItem from="1588322062843" duration="5424000" />
+      <workItem from="1588400295516" duration="5187000" />
+      <workItem from="1588469111074" duration="11859000" />
+      <workItem from="1588557235359" duration="19246000" />
+      <workItem from="1588646606372" duration="4553000" />
+      <workItem from="1588729424190" duration="5280000" />
+      <workItem from="1588835571228" duration="13026000" />
+      <workItem from="1588939233983" duration="4595000" />
+      <workItem from="1588987794182" duration="14987000" />
+      <workItem from="1589074584791" duration="7939000" />
+      <workItem from="1589273414265" duration="338000" />
+      <workItem from="1589595967335" duration="2731000" />
+      <workItem from="1589610709131" duration="2640000" />
+      <workItem from="1589677210673" duration="599000" />
+      <workItem from="1589787136329" duration="2297000" />
+      <workItem from="1592201371348" duration="6246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pytorch-ssd-master/vision/ssd/ssd.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../SSD-master/SSD-master/ssd/engine/inference.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
