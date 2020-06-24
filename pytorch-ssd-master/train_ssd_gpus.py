@@ -312,13 +312,13 @@ if __name__ == '__main__':
             num_classes = len(dataset.class_names)
         elif args.dataset_type == 'open_images':
             dataset = OpenImagesDataset(dataset_path,
-                 transform=train_transform, target_transform=target_transform,
-                 dataset_type="train", balance_data=args.balance_data)
+                 transform=train_transform, target_transform=target_transform,)
+                 dataset_type="train", balance_data=args.balance_data
             label_file = os.path.join(args.checkpoint_folder, "open-images-model-labels.txt")
             store_labels(label_file, dataset.class_names)
             logging.info(dataset)
             num_classes = len(dataset.class_names)
-        elif args.dataset_type =='coco':
+        elif args.dataset_type == 'coco':
             dataset = COCODataset(dataset_path,  annotations_path, transform=train_transform, target_transform=target_transform)
             label_file=os.path.join(args.checkpoint_folder, "coco-model-labels.txt")
             store_labels(label_file, dataset.class_names)
@@ -337,7 +337,7 @@ if __name__ == '__main__':
     train_loader = DataLoader(train_dataset, args.batch_size,
                               num_workers=args.num_workers,
                               pin_memory=True,
-                              batch_sample=sampler,
+                              batch_sampler=sampler,
                               shuffle=True)
     if args.dataset_type =='coco':
         train_loader=DataLoader(train_dataset, args.batch_size, num_workers=args.num_workers, shuffle=True,
@@ -364,7 +364,7 @@ if __name__ == '__main__':
     val_loader = DataLoader(val_dataset, args.batch_size,
                             num_workers=args.num_workers,
                             pin_memory=True,
-                            batch_sample=sampler,
+                            batch_sampler=sampler,
                             shuffle=False)
     if args.dataset_type =='coco':
         val_loader=DataLoader(val_dataset, args.batch_size, num_workers=args.num_workers, shuffle=False,

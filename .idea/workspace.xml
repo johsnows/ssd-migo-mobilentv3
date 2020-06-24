@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d76c214-27cd-4cea-b97c-3102f5e3f737" name="Default Changelist" comment="" />
+    <list default="true" id="7d76c214-27cd-4cea-b97c-3102f5e3f737" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch-ssd-master/eval_coco_ssd.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch-ssd-master/eval_coco_ssd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch-ssd-master/train_ssd_gpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch-ssd-master/train_ssd_gpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch-ssd-master/vision/ssd/config/mobilenetv1_ssd_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch-ssd-master/vision/ssd/config/mobilenetv1_ssd_config.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aG7RZWv4eKViRZ2J8Py43dPTtp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
@@ -92,12 +101,29 @@
       <workItem from="1589610709131" duration="2640000" />
       <workItem from="1589677210673" duration="599000" />
       <workItem from="1589787136329" duration="2297000" />
-      <workItem from="1592201371348" duration="6246000" />
+      <workItem from="1592201371348" duration="7462000" />
+      <workItem from="1592276279641" duration="1197000" />
+      <workItem from="1592381764379" duration="2187000" />
+      <workItem from="1592896339503" duration="5815000" />
+      <workItem from="1592961700725" duration="7728000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

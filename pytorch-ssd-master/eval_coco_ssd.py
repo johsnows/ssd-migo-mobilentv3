@@ -302,7 +302,7 @@ if __name__ == '__main__':
     times=0
     cnt=0
 
-    # sampler = DistributedSampler(dataset, shuffle=True)
+    # sampler = DistributedSampler(dataset, shuffl=True)
     sampler = torch.utils.data.sampler.SequentialSampler(dataset)
     batch_sampler = torch.utils.data.sampler.BatchSampler(sampler=sampler, batch_size=10, drop_last=False)
     data_loader = DataLoader(dataset,
