@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d76c214-27cd-4cea-b97c-3102f5e3f737" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/train_ssd_dali.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/vision/datasets/coco_pipeline.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorch-ssd-master/eval_coco_ssd.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch-ssd-master/eval_coco_ssd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorch-ssd-master/train_ssd_gpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch-ssd-master/train_ssd_gpus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pytorch-ssd-master/vision/ssd/config/mobilenetv1_ssd_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch-ssd-master/vision/ssd/config/mobilenetv1_ssd_config.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,19 +32,19 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pytorch-ssd-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pytorch-ssd-master/vision/datasets" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\vision\ssd\config" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\vision\datasets" />
       <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master" />
       <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\coco" />
-      <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\vision\datasets" />
       <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\vision\ssd\config" />
       <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\vision\ssd" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\pytorch-ssd-master\pytorch-ssd-master\vision\ssd\config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -105,7 +105,10 @@
       <workItem from="1592276279641" duration="1197000" />
       <workItem from="1592381764379" duration="2187000" />
       <workItem from="1592896339503" duration="5815000" />
-      <workItem from="1592961700725" duration="7728000" />
+      <workItem from="1592961700725" duration="9083000" />
+      <workItem from="1593738539069" duration="7770000" />
+      <workItem from="1594018051222" duration="6759000" />
+      <workItem from="1594103765332" duration="14340000" />
     </task>
     <servers />
   </component>
