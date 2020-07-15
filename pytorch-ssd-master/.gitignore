@@ -6,6 +6,7 @@ models
 eval_results/
 
 # Pytorch Models
+*.pth.tar
 *.pth
 
 # images
