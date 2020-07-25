@@ -17,8 +17,8 @@ from vision.ssd.data_preprocessing import PredictionTransform
 from vision.ssd.mobilenet_v2_ssd_lite import create_mobilenetv2_ssd_lite, create_mobilenetv2_ssd_lite_predictor
 from vision.ssd.mobilenet_v3_ssd_lite import  create_mobilenetv3_ssd_lite_predictor, create_mobilenetv3_ssd_lite_small,create_mobilenetv3_ssd_lite_large
 from vision.ssd.migo_ssd_lite import create_migo_ssd_lite, create_migo_ssd_lite_predictor
+#from vision.ssd.config import vgg300_ssd_config as config
 from vision.ssd.config import mobilenetv1_ssd_config as config
-from vision.ssd.config import vgg300_ssd_config as config
 from thop import profile
 from decimal import Decimal
 from vision.ssd.data_preprocessing import CocoTestTransform
