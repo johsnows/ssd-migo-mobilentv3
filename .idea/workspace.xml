@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d76c214-27cd-4cea-b97c-3102f5e3f737" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_SNG_V3_ofa_imagenet_width_multi_1.0_200_C.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_200/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_200/dynamic_SNG_V3_ofa_imagenet_width_multi_1.0_200_C.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_200/logger.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_200/summary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_400/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_400/dynamic_SNG_V3_ofa_imagenet_width_multi_1.3_400_B.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_400/logger.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_400/summary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_600/args.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_600/dynamic_SNG_V3_ofa_imagenet_width_multi_1.3_600_B.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_600/logger.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch-ssd-master/structures/dynamic_sng_V3_600/summary.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch-ssd-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch-ssd-master/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch-ssd-master/train_ssd.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch-ssd-master/train_ssd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pytorch-ssd-master/vision/datasets/coco_pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch-ssd-master/vision/datasets/coco_pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch-ssd-master/vision/ssd/config/mobilenetv1_ssd_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch-ssd-master/vision/ssd/config/mobilenetv1_ssd_config.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +127,7 @@
       <workItem from="1594383982593" duration="1538000" />
       <workItem from="1594618904355" duration="752000" />
       <workItem from="1594781309764" duration="2054000" />
-      <workItem from="1595658967613" duration="243000" />
+      <workItem from="1595658967613" duration="486000" />
     </task>
     <servers />
   </component>

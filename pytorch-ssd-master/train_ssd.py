@@ -120,7 +120,7 @@ args = parser.parse_args()
 DEVICE = torch.device("cuda:0" if torch.cuda.is_available() and args.use_cuda else "cpu")
 
 if args.use_cuda and torch.cuda.is_available():
-    torch.backends.cudnn.benchmark = True
+    torch.backends.cudnn.benchmark = False
     logging.info("Use Cuda.")
 
 
@@ -288,7 +288,7 @@ if __name__ == '__main__':
         parser.print_help(sys.stderr)
         sys.exit(1)
     if torch.cuda.is_available():
-        torch.backends.cudnn.benchmark = True
+        torch.backends.cudnn.benchmark = False
     train_transform = TrainAugmentation(config.image_size, config.image_mean, config.image_std)
     target_transform = MatchPrior(config.priors, config.center_variance,
                                   config.size_variance, 0.5)
